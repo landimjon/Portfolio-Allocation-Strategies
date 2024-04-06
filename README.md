@@ -32,6 +32,7 @@ Use the findings to inform investment decisions and optimize portfolio allocatio
 ## Contributing:
 
 Jonatas Nunes Landim 
+
 Zildete Crausaz Landim 
 
 License:
