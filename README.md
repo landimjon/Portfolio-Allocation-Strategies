@@ -165,13 +165,16 @@ Please note that this guide assumes basic familiarity with R and RStudio. If you
 
 <br>
 
-<h1 align="center">Contributors 👩🏻</h1>
+<h1 align="center">Contributors</h1>
 
 <br>
 
 <div align="center">
-  
+
+
+Jonatas Nunees Landim  
 Zildete Landim Crausaz
+
   <br>
   
 </div>
