@@ -39,7 +39,7 @@ Please make sure to install the required packages before running the Shiny app.
 
 <br>
 
-The dataset includes monthly data on production, imports, exports, refinery output, stock levels, and prices of gasoil/diesel across European countries.
+The dataset includes monthly data on price, volume, and financial metrics such as Maret Cap, P/E Ratio EPS (Earnings per Share), Dividend Yield, Book Value per share, and others. 
 
 <br>
 
@@ -57,15 +57,15 @@ The dataset includes monthly data on production, imports, exports, refinery outp
 
 ## Data Structure
 
--  `year`: Year of the data record (2017-2024)
+-  `year`: Year of the data record (2023-2024)
 -  `month`: Month of the data record (1-12)
 -  `country`: Name of the country
--  `Refinery_Output_kb`: in thousaud barrels per day 
--  `Import_kb`:Imports in thousaud barrels per day 
--  `Export_kb`:Exports in thousaud barrels per day 
--  `Demand_kb`:Demand in thousaud barrels per day 
--  `closing_stock_kmt`: Closing stock in thousaud metric tons 
--  `price_usd`: Price of gasoil in USD per ton
+-  `sector`: The industry sector the company belongs to 
+-  `Market Cap`: The total market value of the company's outstanfding shares
+-  `P/E Ratio`: The price-to-earning ratio, a valuation metric 
+-  `EPS (Earnings per Share)`: The company's profit per share 
+-  `Dividend Yield`: The annual dividend payement as a percentage of the stock price 
+-  `Book Value per Share `: The company's net assets per share
 
 <br>
 
@@ -83,8 +83,18 @@ The analysis includes:
 
 ## Files 
 
--  `europe_gasoil_data.csv`: Main dataset file containing gasoil data for European countries.
--  `analysis_script`: R script file for performing data analysis and generating reports.
+-  `TSLA.csv`: Main dataset file containing gasoil data for European countries.
+-  `TSLA.csv`: Dataset file containing Tesla daily data from April 2023 to April 2024.
+-  `MSFT.csv`: Dataset file containing Microsof daily data from April 2023 to April 2024.
+-  `GOOGL.csv`: Dataset file containing Google daily data from April 2023 to April 2024.
+-  `PFE.csv`: Dataset file containing Pfizer daily data from April 2023 to April 2024.
+-  `NIKE.csv`: Dataset file containing Nike daily data from April 2023 to April 2024.
+-  `AGG.csv`: Daily dataset file containing ETF tracking a broad index of investment-grade U.S. government and corporate bonds from April 2023 to April 2024.
+-  `BND.csv`: Daily dataset file containing a wide range of U.S Treasury securities and investment-grade corporate bonds from April 2023 to April 2024.
+-  `HYG.csv`: Daily dataset file containing a high-yield corporate bonds issued by U.S companies from April 2023 to April 2024.
+-   `SHV.csv`: Daily dataset file containing short-term Treasuries from April 2023 to April 2024.
+-   REITs List missing
+-   `analysis_script`: R script file for performing data analysis and generating reports.
 -  `monthly_stock_changes.csv`: Generated file with details of stock builds or draws for each month.
 -  `price_trend_analysis`: Visualistion of price trends over time.  
 
