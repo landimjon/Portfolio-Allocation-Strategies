@@ -163,21 +163,31 @@ Please note that this guide assumes basic familiarity with R and RStudio. If you
   <a href="https://tsp-heuristics.shinyapps.io/tsp1/">![Demo](https://img.shields.io/badge/App-Demo-indigo)</a>
 </div>
 
+The project's structure in RStudio follows a modular approach:
+
+- `Capacity_world`: Contains R scripts and files for visualizing biodiesel capacity data on a refinery level. It includes scripts or functions to process and present information specific to individual refineries.
+  
+- `Capacity_regions`: Contains R scripts and files to explore biodiesel capacity trends across different regions.
+  
+- `Data`: Store relevant datasets used in the modeling process.
+  
+- `Results`: Save model outputs, reports, and visualizations.
+
+<h1 align="center"> Data Sources 📰</h1>
+
+- [Argus Biofuels Feedstocks](https://www.argusmedia.com/en/oil-products/biofuels)
+
 <br>
 
-<h1 align="center">Contributors</h1>
+<h1 align="center">Contributors 👩🏻</h1>
 
 <br>
 
 <div align="center">
-
-
-Jonatas Nunees Landim  
+  
 Zildete Landim Crausaz
-
   <br>
   
 </div>
 
 Enjoy using the Shiny app!
-![image](https://github.com/landimjon/Portfolio-Allocation-Strategies/assets/89792005/2b5646fe-0482-4f02-aca8-14f7c66bc586)
