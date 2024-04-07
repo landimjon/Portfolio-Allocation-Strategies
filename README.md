@@ -179,13 +179,15 @@ The project's structure in RStudio follows a modular approach:
 
 <br>
 
-<h1 align="center">Contributors 👩🏻</h1>
+<h1 align="center">Contributors </h1>
 
 <br>
 
 <div align="center">
-  
-Zildete Landim Crausaz
+
+Jonatas Nunes Landim
+    <br>
+    Zildete Landim Crausaz
   <br>
   
 </div>
