@@ -185,7 +185,11 @@ The project's structure in RStudio follows a modular approach:
 
 <h1 align="center"> Data Sources 📰</h1>
 
-- [Argus Biofuels Feedstocks](https://data.nasdaq.com/publishers/QDL)
+- [Quandl](https://data.nasdaq.com/publishers/QDL)
+- [Yahoo Finance](https://finance.yahoo.com/))
+- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+- [Bloomberg](https://www.bloomberg.com/europe)
+- [Reuters](https://www.reuters.com/markets/us/)
 
 <br>
 
