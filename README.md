@@ -43,18 +43,6 @@ The dataset includes monthly data on price, volume, and financial metrics such a
 
 <br>
 
-## Data Sources
-
--	Quandl
-
--	Yahoo Finance
-
--	Federal Reserve Economic Data (FRED)
-
--	Bloomberg
-
--	Reuters
-
 ## Data Structure
 
 -  `year`: Year of the data record (2023-2024)
@@ -186,11 +174,10 @@ The project's structure in RStudio follows a modular approach:
 <h1 align="center"> Data Sources 📰</h1>
 
 - [Quandl](https://data.nasdaq.com/publishers/QDL)
-- [Yahoo Finance](https://finance.yahoo.com/))
+- [Yahoo Finance](https://finance.yahoo.com/)
 - [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
 - [Bloomberg](https://www.bloomberg.com/europe)
 - [Reuters](https://www.reuters.com/markets/us/)
-
 <br>
 
 <h1 align="center">Contributors </h1>
