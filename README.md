@@ -185,7 +185,7 @@ The project's structure in RStudio follows a modular approach:
 
 <h1 align="center"> Data Sources 📰</h1>
 
-- [Argus Biofuels Feedstocks](](https://data.nasdaq.com/publishers/QDL))
+- [Argus Biofuels Feedstocks](https://data.nasdaq.com/publishers/QDL)
 
 <br>
 
